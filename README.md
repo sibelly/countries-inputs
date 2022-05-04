@@ -1,6 +1,5 @@
-# React Native International Mobile Phone Input
+# React Native International Mobile Phone and Countries Input
 
-![app layout](https://user-images.githubusercontent.com/26605247/54213787-e8c18000-44dc-11e9-9161-caf7058a0bfd.png)
 
 ## Overview
 
@@ -16,11 +15,11 @@
 
 1. Clone the repo in your local machine.
 
-```git clone https://github.com/yhenni1989/PhoneInput.git```
+```git clone https://github.com/sibelly/countries-inputs.git```
 
 2. Go inside the project directory.
 
-```cd PhoneInput```
+```cd countries-inputs```
 
 3. Install client dependencies
 
@@ -35,7 +34,3 @@ npm install
 4. Launch the simulator
 
 ```expo start --ios```
-
-## Step by step tutorial
-
-Read the article of how I made this component on [Medium](https://bit.ly/2sbdNIE).
